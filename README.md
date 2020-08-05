@@ -1,5 +1,4 @@
 # MCP
-Where the skids go!
 
 
 But being fr, none of these snippets are skidded.
